@@ -1,0 +1,5 @@
+If running on windows:
+WSL-2
+Java 17+ JDK
+Python 13.xx.xx
+Streamlit, csv, cassandra-driver, decimal, datetime, plotly, pandas
